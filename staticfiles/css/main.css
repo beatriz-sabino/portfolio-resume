@@ -1,0 +1,42 @@
+body{
+	background-color:#F8F8F8!important;
+}
+
+span{
+  color: #8BD0DB;
+}
+
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#profile-wrapper{
+	text-align: center;
+}
+
+#profile-pic{
+	width:160px;
+	height: 180px;
+	border-radius: 50%;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+	padding: 0 !important;
+  list-style-type: none;
+}
+
+
+.social-links ul, li{
+	list-style-type:none;
+	display: inline-block;
+  margin-left: 5px;
+}
+
+.social{
+	width:24px;
+	height: 24px;
+}
+
