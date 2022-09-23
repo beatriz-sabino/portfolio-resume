@@ -1,5 +1,4 @@
 # Portfolio Resume
-
 Welcome to my portfolio resume.
 With this project you will be able to get to know a bit more about myself.
 
@@ -11,8 +10,8 @@ Now you may be thinking why did I do this portfolio resume when I could just hav
 Well it's simple, the main intente with this porject was to learn about the Django framework.
 
 
-## Deplyment
-After some research for an alterative hosting service for Heroku, I came across Replit.
+## Deployment
+After some research for an alterative hosting service to Heroku, I came across Replit.
 
 This is the first time I'm deploying a project so I was looking for a solution that would have an easy deployment process and Replit was the answer I was seeking.
 
