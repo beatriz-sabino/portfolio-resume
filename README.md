@@ -1,30 +1,22 @@
-# Python on Replit
+# Portfolio Resume
 
-This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
+Welcome to my portfolio resume.
+With this project you will be able to get to know a bit more about myself.
+<br>
+[This is the final result!](https://portfolio-resume.beatrizsabino.repl.co)
 
-## Running the repl
+### Why I did this project
+Now you may be thinking why did I do this portfolio resume when I could just have done a bigger portfolio or a tailored resume.
+<br>
+Well it's simple, the main intente with this porject was to learn about the Django framework.
+<br>
 
-1. Setup a new secret environment variable (the lock icon) where the key is `SECRET_KEY` and the value is
-   a randomly generated token of 32 bits of randomnese. To generate such a token type this into the shell and hit Enter:
-```
-python
-import secrets
-secrets.token_urlsafe(32)
-```
-2. Hit run!
+## Deplyment
+After some research for an alterative hosting service for Heroku, I came across Replit.
+<br>
+This is the first time I'm deploying a project so I was looking for a solution that would have an easy deployment process and Replit was the awnser I was looking for.
+<br>
+I followed [this article](https://blog.replit.com/deploying-django) and in no time I had my porfolio up and running.
 
-See this 1 minute video for a walkthrough: [https://www.loom.com/share/ecc4e738149f4d1db3bcff01758b3e71](https://www.loom.com/share/341b5574d12040fb9fcbbff150777f1c)
-
-## Installing packages
-
-To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below:
-```python
-import math
-import pandas as pd
-```
-
-You could also install packages by using the Replit packager interface in the left sidebar.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+## Feeback
+Know a way I can improve this project? Feel free to open an issue!  
