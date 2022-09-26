@@ -15,6 +15,8 @@ After some research for an alterative hosting service to Heroku, I came across R
 
 This is the first time I'm deploying a project so I was looking for a solution that would have an easy deployment process and Replit was the answer I was seeking.
 
+Another advantage of using Replit is that you can create a new repository with your project directly from their plaform.Also when you need to update your files and then  commit your changes, Replit makes the process easy with a push of a button.
+
 I followed [this article](https://blog.replit.com/deploying-django) and in no time I had my porfolio up and running.
 
 ## Feeback
