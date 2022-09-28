@@ -1,3 +1,5 @@
+<div align="center"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/beatriz-sabino/portfolio-resume-django?color=blue&style=for-the-badge"></div>
+
 # Portfolio Resume
 Welcome to my portfolio resume.
 With this project you will be able to get to know a bit more about myself.
